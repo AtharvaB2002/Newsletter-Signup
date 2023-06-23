@@ -38,7 +38,7 @@ app.post("/", function(req, res) {
     const options = {
         method: "POST",
         headers: {
-            Authorization: 'APIKEY: 6f721b5ebd26b4616e876b8fd801213d-us21'
+            Authorization: 'APIKEY: 625575d3c4ca9c9c45b383b7f09b1798-us21'
         }
     };
 
@@ -73,10 +73,3 @@ app.post("/failure", function(req, res) {
 app.listen(process.env.PORT || 3000, function() {
     console.log("Server is running on port 3000");
 });
-
-
-//API Key
-// 6f721b5ebd26b4616e876b8fd801213d-us21
-
-//Audience Key
-//f6d429648a
