@@ -6,3 +6,5 @@ Features
 2) Integration with the Mailchimp API ensures secure storage of user data.
 3) Error handling and validation to ensure accurate email address submission.
 4) Easily customizable design and layout to match your branding requirements.
+ 
+ URL-https://newslettersignup.cyclic.app
